@@ -24,6 +24,8 @@
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "dotenv": "^4.0.0",
-    "nodemon": "^1.14.6"
+    "jest": "^22.0.4",
+    "nodemon": "^1.14.6",
+    "supertest": "^3.0.0"
   }
 }
