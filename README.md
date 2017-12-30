@@ -1,4 +1,4 @@
-# ExpressJS ES6
+# ExpressJS ES6 [![Build Status](https://travis-ci.com/raisiqueira/Express-API-ES6.svg?token=iqK3AgxsRnMyQKqxrgbd&branch=master)](https://travis-ci.com/raisiqueira/Express-API-ES6)
 
 Basic implementation for ExpressJS with ESˆ features
 
