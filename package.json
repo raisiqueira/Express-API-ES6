@@ -26,6 +26,6 @@
     "dotenv": "^7.0.0",
     "jest": "^24.7.0",
     "nodemon": "^1.18.10",
-    "supertest": "^4.0.0"
+    "supertest": "^4.0.2"
   }
 }
